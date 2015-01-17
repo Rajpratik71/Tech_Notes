@@ -524,17 +524,17 @@ Contents:
   - `list.files()`
   - recursively: `list.files(recursive=TRUE)`
 + directory operation
-  - `getwd()` and `setwd(dir)`
-  - `dir.create()`
-  - create subdirectory: `dir.create("current/subdirectory",recursive=TRUE)`
-  - delete: `unlink(dir,recursive=TRUE)`
+  - `getwd()` and `setwd(dir)`  no quotes around dir!
+  - `dir.create("dirname")`
+  - create subdirectory: `dir.create("current/subdirectory", recursive=TRUE)`
+  - delete: `unlink("dir", recursive=TRUE)`
 + file
-  - create: `file.create(filename)`
-  - check existence: `file.exists(filename)`
-  - get info: `file.info(filename)`
-  - rename: `file.rename(from,to)`
-  - copy: `file.copy(from,to)`
-  - full path: `file.path(filename)`
+  - create: `file.create("filename")`
+  - check existence: `file.exists("filename")`
+  - get info: `file.info("filename")`
+  - rename: `file.rename("oldfilename","newfilename")`
+  - copy: `file.copy("file_to_be_copied","copy_of_file_to_be_copied")`
+  - full path: `file.path("filename")`
   
   
 ### documentation
