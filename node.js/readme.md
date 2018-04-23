@@ -3,12 +3,14 @@
 ## Installation
 
 - [Install Node](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
+- Live Server (Click show in Live Server)
+- Code Runner (CRTL+ALT+N)
 
 ## Tips
 
 Ctrl-C from terminal stops the node http server from running
 
-Run node apps by typing in node *filename
+Run node apps by typing in: node *filename*
 
 npm install formidable
 
