@@ -8,6 +8,11 @@ if (time < 20) {
     console.log("Good night");
 }
 
+// TERNARY OPERATOR 
+// Basically like the ifelse in R
+
+console.log(time < 20 ? 'good day' : 'good night')
+
 // SWITCH
 
 var text;
