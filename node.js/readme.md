@@ -15,6 +15,12 @@ Run node apps by typing in: node *filename*
 npm install formidable
 
 ## Reference
+
 [W3 Schools Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
-[Guru99 Node.js Tutorial](https://www.guru99.com/node-js-tutorial.html)
+[Microservices Boot Camp](https://wiki.collegeboardnewmedia.org/display/soa/MicroService+Boot+Camp+Syllabus)
+
+### Promises
+
+[Promises and Generators_ Control Flow Utopia.html](Promises and Generators_ Control Flow Utopia.html)
+[Forbes Lindesay: Promises and Generators: control flow utopia -- JSConf EU 2013](https://www.youtube.com/watch?v=qbKWsbJ76-s)
 
