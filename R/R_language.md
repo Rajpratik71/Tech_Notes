@@ -9,7 +9,7 @@ Contents:
 - [Control Structure](#Control-Structure)
 - [Function](#Function)
 - [Data and Time](#Date-and-Time)
-- [Loop Functions](#Loop-Function)
+- [Loop Functions](#Loop-Functions)
 - [str Function](#str-Function)
 - [Simulation](#Simulation)
 - [Workspace](#Workspace)
